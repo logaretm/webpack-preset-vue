@@ -7,11 +7,7 @@
   },
   "description": "A simple way to install VueJS webpack stuff",
   "author": "Abdelrahman Awad <logaretm1@gmail.com>",
-  "keywords": [
-    "webpack",
-    "vue",
-    "vuejs"
-  ],
+  "keywords": ["webpack", "vue", "vuejs"],
   "license": "MIT",
   "dependencies": {
     "babel-core": "^6.10.4",
