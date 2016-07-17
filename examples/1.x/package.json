@@ -1,0 +1,12 @@
+{
+  "name": "vue-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "webpack-preset-vue": "^1.0.0"
+  }
+}
