@@ -12,6 +12,10 @@ However they are heavily opinionated and that is not a bad thing, in many cases 
 
 `npm install webpack-preset-vue`
 
+if you want to use VueJS 2.0 (currently in beta) use this command instead:
+
+`npm install webpack-preset-vue@next`
+
 ## Example
 
 Check the [example here](example/README.md)
