@@ -1,14 +1,11 @@
 {
   "name": "webpack-preset-vue",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/logaretm/webpack-preset-vue.git"
   },
   "description": "A simple way to install VueJS webpack stuff",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Abdelrahman Awad <logaretm1@gmail.com>",
   "keywords": ["webpack", "vue", "vuejs"],
   "license": "MIT",
