@@ -1,6 +1,5 @@
 # Example
 
-
 ### Installing
 To get started using this example run:
 
