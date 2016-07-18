@@ -1,5 +1,5 @@
 # webpack-preset-vue
-[![Dependency Status](https://dependencyci.com/github/logaretm/webpack-preset-vue/badge)](https://dependencyci.com/github/logaretm/webpack-preset-vue?style=flat-square)
+[![Dependency Status](https://dependencyci.com/github/logaretm/webpack-preset-vue/badge?style=flat-square)](https://dependencyci.com/github/logaretm/webpack-preset-vue)
 
 An easy way to get started with VueJS and Webpack.
 
