@@ -7,6 +7,6 @@
   },
   "license": "ISC",
   "dependencies": {
-    "webpack-preset-vue": "^2.0.2"
+    "webpack-preset-vue": "^2.0.0"
   }
 }
